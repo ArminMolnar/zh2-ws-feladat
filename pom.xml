@@ -117,7 +117,7 @@
                             <outputFile>${basedir}/src/main/resources/wsdl/SoapFoodDataService.wsdl</outputFile>
                             <genWsdl>true</genWsdl>
                             <verbose>true</verbose>
-                            <address>http://localhost:8080/zh2_ws_feladat_war/hu.pte.mik.prog4.zh2.ws/food_data</address>
+                            <address>http://localhost:8081/zh2_ws_feladat_war/ws/food</address>
                         </configuration>
                     </execution>
                 </executions>
